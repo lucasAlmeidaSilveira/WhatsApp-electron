@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/electronjs-ar21.svg" width="220px" />
+  <img alt="WhatsApp Electron" title="WhatsApp Electron" src=".github/electronjs-ar21.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -11,28 +11,39 @@
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 </p>
 
-<p align="center">
-  <img alt="dev.finances" src=".github/macbook-black.png" width="100%">
-</p>
+<h1 align="center">
+  <img alt="WhatsApp Electron" title="WhatsApp Electron" src=".github/title-whatsapp.png" width="140px" />
+</h1>
 
 <br>
 
-## 🎉 Install
+## 🎉 Install in Command Line
 
 ```sh
-npm install
+yarn build-linux
+yarn deb
+
+npm build-linux
+npm deb
 ```
 
-## 🔥 Usage
+## 🔥 Usage in development
 
 ```sh
+yarn start
+
 npm start
 ```
-Depois é só modificar a linha do main.js ```win.loadURL("http://localhost:5500/")``` adicionando a URL de sua preferência.
+## 📦 Packages
+
+* [WhatsApp-Electron OS Linux](https://github.com/lucasAlmeidaSilveira/WhatsApp-electron/releases/tag/WhatsApp-Electron)
+
+<br>
 
 ## 💻 Projeto
 
-O Webview Simple, é um navegador criado para ser usado como visualizador de testes de app web, como server.
+Sempre me incomodei por não haver um app puro, simples do WhatsApp para OS Linux, por isso desenvolvi o WhatsApp Electron. 
+O WhatsApp-Electron é uma aplicação propriamente dita, do WhatsApp, simples, desenvolvida com EletronJS para OS Linux.
 
 
 ## 🚀 Tecnologias
