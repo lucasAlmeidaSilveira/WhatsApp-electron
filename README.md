@@ -1,5 +1,7 @@
 <h1 align="center">
   <img alt="WhatsApp Electron" title="WhatsApp Electron" src=".github/electronjs-ar21.svg" width="220px" />
+  <br>
+  <img alt="WhatsApp Electron" title="WhatsApp Electron" src=".github/title-whatsapp.png" width="140px" />
 </h1>
 
 <p align="center">
@@ -11,9 +13,6 @@
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 </p>
 
-<h1 align="center">
-  <img alt="WhatsApp Electron" title="WhatsApp Electron" src=".github/title-whatsapp.png" width="140px" />
-</h1>
 
 <br>
 
@@ -37,8 +36,6 @@ npm start
 ## 📦 Packages
 
 * [WhatsApp-Electron OS Linux](https://github.com/lucasAlmeidaSilveira/WhatsApp-electron/releases/tag/WhatsApp-Electron)
-
-<br>
 
 ## 💻 Projeto
 
