@@ -1,0 +1,11 @@
+{
+  "src": "dist/WhatsApp-electron-linux-x64/",
+  "dest": "dist/installers/",
+  "description": "WhatsApp para linux",
+  "productDescription": "Aplicação do WhatsApp para Linux, com design simples e puro do WhatsApp web",
+  "version": "1.0.1",
+  "section": "utils",
+  "arch": "amd64",
+  "maintainer": "Lucas Almeida da Silveira",
+  "icon": "assets/Tray.png"
+}

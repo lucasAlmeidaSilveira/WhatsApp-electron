@@ -1,15 +1,12 @@
 {
   "name": "WhatsApp-electron",
-  "version": "1.0.0",
-  "description": "WhatsApp para linux",
   "main": "electron/main.js",
   "scripts": {
     "start": "electron .",
     "build-linux": "electron-packager . WhatsApp-electron --platform linux --arch x64 --out dist/",
-    "deb": "electron-installer-debian --src dist/WhatsApp-electron-linux-x64/ --dest dist/installers/ --arch amd64"
+    "deb": "electron-installer-debian --config config/config.json"
   },
   "keywords": [],
-  "author": "Lucas Almeida da Silveira",
   "license": "ISC",
   "devDependencies": {
     "electron-packager": "^15.2.0",
